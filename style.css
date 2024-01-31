@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.upper{
+     background-image: url(./3947-scaled.jpg);
+}
+.uppernav{
+    margin-right: 600px;
+}
+.firstset{
+    background-image: url(./CMIH-Slider.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 450px;
+}
+.secondset {
+    background-image: url(./3947-scaled.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 470px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    position: relative;
+    top: -120px;
+}
+
+.brand{
+    padding-top: 70px;
+}
+
+.fifthset{
+    background-color: #282f44;
+    height: 250px;
+    
+}
+.icons{
+    border: 0 solid black;
+    border-radius: 3px;
+    width: 30px;
+    height: 30px;
+    background-color: white;
+    padding: 5px;
+}
